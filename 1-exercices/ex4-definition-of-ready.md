@@ -11,4 +11,4 @@
 ## Énoncé
 
 1. Définissez votre Definition Of Ready.
-2. Si cela est pertinent, transformez votre découpage des besoins en utilisant la méthode de *User Story*.
+2. Réflechissez à la notion de Minimum Viable Product [MVP](https://www.usabilis.com/mvp-minimum-viable-product/) pour le produit à construire.
