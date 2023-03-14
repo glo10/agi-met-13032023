@@ -10,7 +10,7 @@
 
 ## Énoncé
 
-1. Transformez votre découpage des besoins en utilisant la méthode de *User Story* (**uniquement si c'est plus pertinent que votre méthode actuelle**).
+1. Transformez votre découpage des besoins en utilisant la méthode de *User Story*.
 
 ### Exemples user stories
 

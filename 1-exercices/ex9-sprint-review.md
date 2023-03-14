@@ -8,5 +8,4 @@ Vous avez terminé le *sprint*, l'équipe a été conviée au rendez-vous pour r
 
 1. Le *SCRUM Master* animera la réunion du *sprint review*.
 2. Le Product Owner présentera *l'objectif du sprint*.
-3. Chaque membre de l'équipe Developers doit :
-- Présenter l' *US* qui lui a été affecté et le livrable (texte technique détaillé réalisé dans l'exercice précédent).
+3. Chaque membre de l'équipe Developers doit présenter un  *US* qui lui a été assigné.

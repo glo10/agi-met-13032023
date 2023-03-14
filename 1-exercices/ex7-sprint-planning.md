@@ -14,10 +14,10 @@
 
 À partir de votre *product backlog*
 1. Dégagez un objectif de Sprint
-2. Sélectionnez les éléments permettant de répondre à cet objectif (Si votre Backlog ne contient pas ces éléments, vous devez créer des nouveaux US)
-3. Déterminez un plan d'action pour les premiers jours du Sprint.
+2. Sélectionnez les éléments permettant de répondre à cet objectif (Si votre Backlog ne contient pas ces éléments, vous devez créer des nouveaux US).
+**Ne déterminez pas de plan d'action.**
 
-PS: gardez en tête que l'objectif est de maximiser la valeur, autrement dit votre objectif est de produire en premier les incréments qui apportent le plus de valeur. De plus, vous pourrez récolter les feedbacks plus tôt pour encore améliorer le produit.
+PS: gardez en tête que l'objectif est de maximiser la valeur, autrement dit votre objectif est de produire en premier les incréments qui apportent le plus de valeur. De plus, vous pourrez récolter les feedbacks au plus tôt pour améliorer le produit par la suite.
 
 ---
 
@@ -25,9 +25,7 @@ PS: gardez en tête que l'objectif est de maximiser la valeur, autrement dit vot
 
 1. L'équipe des Developers, pour chaque *US* :
 - Votez à l'aide du Planning Poker ;
-- Assignez un Developers ou un binôme pour travailler en *pair-programming* sur Jira.
-
-2. Chaque Developers ou binôme de Developers, peut ou peuvent apporter de manière suscintent le travail à réaliser sur *Us* sans trop rentrer dans les détails sur code (technique).
+- Assignez un Developers ou un binôme pour travailler à chaque *US*.
 
 ---
 
